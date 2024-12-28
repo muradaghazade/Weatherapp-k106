@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    padding-top: 100px;
+    background: linear-gradient(to left, rgb(0, 3, 172), rgb(0, 179, 199));
+    background-size: cover;
+    color: white;
+}
+
+input {
+    border: none;
+    width: 500px;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+button {
+    border: none;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: white;
+    color: black;
+}
+
+div {
+    margin-top: 50px;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.255)
+}
